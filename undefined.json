@@ -1,0 +1,2816 @@
+[
+  {
+    "keyword": "Feature",
+    "type": "feature",
+    "description": "",
+    "line": 1,
+    "name": "Testing Sample Functionality",
+    "uri": "C:\\WebdriverIO\\features\\sample.feature",
+    "tags": [],
+    "elements": [
+      {
+        "keyword": "Scenario",
+        "type": "scenario",
+        "description": "",
+        "name": "checking login with valid credentials",
+        "tags": [],
+        "id": "testing-sample-functionalitychecking-login-with-valid-credentials",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Before",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 5000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given",
+            "name": "user is on login page",
+            "result": {
+              "status": "passed",
+              "duration": 21529000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user eneters username",
+            "result": {
+              "status": "passed",
+              "duration": 321000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user ciccks next button",
+            "result": {
+              "status": "passed",
+              "duration": 109000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user enters  password",
+            "result": {
+              "status": "passed",
+              "duration": 1699000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks signin button",
+            "result": {
+              "status": "passed",
+              "duration": 1830000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user navigated to next page",
+            "result": {
+              "status": "passed",
+              "duration": 1463000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user should see new quote button",
+            "result": {
+              "status": "passed",
+              "duration": 64000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks the new quote button",
+            "result": {
+              "status": "passed",
+              "duration": 2924000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user fill quote name",
+            "result": {
+              "status": "passed",
+              "duration": 232000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user click select a client button",
+            "result": {
+              "status": "passed",
+              "duration": 1567000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user place client name",
+            "result": {
+              "status": "passed",
+              "duration": 402000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user select the client",
+            "result": {
+              "status": "passed",
+              "duration": 3780000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user click on create button",
+            "result": {
+              "status": "passed",
+              "duration": 4110000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user validate the quote order message",
+            "result": {
+              "status": "passed",
+              "duration": 8058000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user clicks the window world repository dropdown",
+            "result": {
+              "status": "passed",
+              "duration": 6942000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks the save button for save the data",
+            "result": {
+              "status": "passed",
+              "duration": 6330000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks the lineitems tab",
+            "result": {
+              "status": "passed",
+              "duration": 3125000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user checks the new lineitem button",
+            "result": {
+              "status": "passed",
+              "duration": 1657000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user clicks the new lineitem button",
+            "result": {
+              "status": "passed",
+              "duration": 190000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user select the new mice line",
+            "result": {
+              "status": "passed",
+              "duration": 136000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "user enter description, dealer price and quantity",
+            "result": {
+              "status": "passed",
+              "duration": 5557000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 4000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          }
+        ],
+        "retried": 0
+      },
+      {
+        "keyword": "Scenario",
+        "type": "scenario",
+        "description": "",
+        "name": "checking login with valid credentials",
+        "tags": [],
+        "id": "testing-sample-functionalitychecking-login-with-valid-credentials",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Before",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 2000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given",
+            "name": "user is on login page",
+            "result": {
+              "status": "passed",
+              "duration": 7811000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user eneters username",
+            "result": {
+              "status": "passed",
+              "duration": 308000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user ciccks next button",
+            "result": {
+              "status": "passed",
+              "duration": 103000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user enters  password",
+            "result": {
+              "status": "passed",
+              "duration": 1240000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks signin button",
+            "result": {
+              "status": "passed",
+              "duration": 2668000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user navigated to next page",
+            "result": {
+              "status": "passed",
+              "duration": 1431000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user should see new quote button",
+            "result": {
+              "status": "passed",
+              "duration": 48000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks the new quote button",
+            "result": {
+              "status": "passed",
+              "duration": 1727000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user fill quote name",
+            "result": {
+              "status": "failed",
+              "duration": 10235000000,
+              "error_message": "Error: Can't call setValue on element with selector \"input[name=\"QuoteName\"]\" because element wasn't found\n    at implicitWait (C:\\WebdriverIO\\node_modules\\webdriverio\\build\\index.js:52:13)\n    at async Element.elementErrorHandlerCallbackFn (C:\\WebdriverIO\\node_modules\\webdriverio\\build\\index.js:7334:23)\n    at async Element.wrapCommandFn (C:\\WebdriverIO\\node_modules\\@wdio\\utils\\build\\index.js:884:23)\n    at async World.<anonymous> (C:\\WebdriverIO\\features\\step-definitions\\sampleLogin .js:69:5)"
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user click select a client button",
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user place client name",
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user select the client",
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user click on create button",
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user validate the quote order message",
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user clicks the window world repository dropdown",
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks the save button for save the data",
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks the lineitems tab",
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user checks the new lineitem button",
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user clicks the new lineitem button",
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user select the new mice line",
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "user enter description, dealer price and quantity",
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          }
+        ],
+        "retried": 0
+      },
+      {
+        "keyword": "Scenario",
+        "type": "scenario",
+        "description": "",
+        "name": "checking login with valid credentials",
+        "tags": [],
+        "id": "testing-sample-functionalitychecking-login-with-valid-credentials",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Before",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 5000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given",
+            "name": "user is on login page",
+            "result": {
+              "status": "passed",
+              "duration": 7156000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user eneters username",
+            "result": {
+              "status": "passed",
+              "duration": 401000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user ciccks next button",
+            "result": {
+              "status": "passed",
+              "duration": 147000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user enters  password",
+            "result": {
+              "status": "passed",
+              "duration": 1208000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks signin button",
+            "result": {
+              "status": "passed",
+              "duration": 15213000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user navigated to next page",
+            "result": {
+              "status": "passed",
+              "duration": 1233000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user should see new quote button",
+            "result": {
+              "status": "passed",
+              "duration": 158000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks the new quote button",
+            "result": {
+              "status": "passed",
+              "duration": 1537000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user fill quote name",
+            "result": {
+              "status": "passed",
+              "duration": 1432000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user click select a client button",
+            "result": {
+              "status": "passed",
+              "duration": 6261000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user place client name",
+            "result": {
+              "status": "passed",
+              "duration": 370000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user select the client",
+            "result": {
+              "status": "passed",
+              "duration": 9745000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user click on create button",
+            "result": {
+              "status": "passed",
+              "duration": 4166000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user validate the quote order message",
+            "result": {
+              "status": "passed",
+              "duration": 5618000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user clicks the window world repository dropdown",
+            "result": {
+              "status": "passed",
+              "duration": 7591000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks the save button for save the data",
+            "result": {
+              "status": "passed",
+              "duration": 6384000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks the lineitems tab",
+            "result": {
+              "status": "passed",
+              "duration": 3270000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user checks the new lineitem button",
+            "result": {
+              "status": "passed",
+              "duration": 2415000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user clicks the new lineitem button",
+            "result": {
+              "status": "passed",
+              "duration": 170000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user select the new mice line",
+            "result": {
+              "status": "passed",
+              "duration": 138000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "user enter description, dealer price and quantity",
+            "result": {
+              "status": "passed",
+              "duration": 5588000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          }
+        ],
+        "retried": 0
+      },
+      {
+        "keyword": "Scenario",
+        "type": "scenario",
+        "description": "",
+        "name": "checking login with valid credentials",
+        "tags": [],
+        "id": "testing-sample-functionalitychecking-login-with-valid-credentials",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Before",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 4000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given",
+            "name": "user is on login page",
+            "result": {
+              "status": "passed",
+              "duration": 7360000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user eneters username",
+            "result": {
+              "status": "passed",
+              "duration": 333000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user ciccks next button",
+            "result": {
+              "status": "passed",
+              "duration": 107000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user enters  password",
+            "result": {
+              "status": "passed",
+              "duration": 1185000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks signin button",
+            "result": {
+              "status": "passed",
+              "duration": 9351000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user navigated to next page",
+            "result": {
+              "status": "passed",
+              "duration": 824000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user should see new quote button",
+            "result": {
+              "status": "passed",
+              "duration": 39000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks the new quote button",
+            "result": {
+              "status": "passed",
+              "duration": 8633000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user fill quote name",
+            "result": {
+              "status": "passed",
+              "duration": 168000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user click select a client button",
+            "result": {
+              "status": "passed",
+              "duration": 6230000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user place client name",
+            "result": {
+              "status": "passed",
+              "duration": 397000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user select the client",
+            "result": {
+              "status": "passed",
+              "duration": 1741000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user click on create button",
+            "result": {
+              "status": "passed",
+              "duration": 4106000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user validate the quote order message",
+            "result": {
+              "status": "passed",
+              "duration": 7560000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user clicks the window world repository dropdown",
+            "result": {
+              "status": "passed",
+              "duration": 6096000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks the save button for save the data",
+            "result": {
+              "status": "passed",
+              "duration": 6011000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks the lineitems tab",
+            "result": {
+              "status": "passed",
+              "duration": 3060000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user checks the new lineitem button",
+            "result": {
+              "status": "passed",
+              "duration": 1832000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user clicks the new lineitem button",
+            "result": {
+              "status": "passed",
+              "duration": 109000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user select the new mice line",
+            "result": {
+              "status": "passed",
+              "duration": 266000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "user enter description, dealer price and quantity",
+            "result": {
+              "status": "passed",
+              "duration": 5540000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 2000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          }
+        ],
+        "retried": 0
+      },
+      {
+        "keyword": "Scenario",
+        "type": "scenario",
+        "description": "",
+        "name": "checking login with valid credentials",
+        "tags": [],
+        "id": "testing-sample-functionalitychecking-login-with-valid-credentials",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Before",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 5000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given",
+            "name": "user is on login page",
+            "result": {
+              "status": "passed",
+              "duration": 6580000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user eneters username",
+            "result": {
+              "status": "passed",
+              "duration": 323000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user ciccks next button",
+            "result": {
+              "status": "passed",
+              "duration": 104000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user enters  password",
+            "result": {
+              "status": "passed",
+              "duration": 1217000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks signin button",
+            "result": {
+              "status": "passed",
+              "duration": 2810000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user navigated to next page",
+            "result": {
+              "status": "passed",
+              "duration": 1314000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user should see new quote button",
+            "result": {
+              "status": "passed",
+              "duration": 38000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks the new quote button",
+            "result": {
+              "status": "passed",
+              "duration": 900000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user fill quote name",
+            "result": {
+              "status": "passed",
+              "duration": 1042000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user click select a client button",
+            "result": {
+              "status": "passed",
+              "duration": 6267000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user place client name",
+            "result": {
+              "status": "passed",
+              "duration": 297000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user select the client",
+            "result": {
+              "status": "passed",
+              "duration": 1211000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user click on create button",
+            "result": {
+              "status": "passed",
+              "duration": 4161000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user validate the quote order message",
+            "result": {
+              "status": "passed",
+              "duration": 4720000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user clicks the window world repository dropdown",
+            "result": {
+              "status": "passed",
+              "duration": 6896000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks the save button for save the data",
+            "result": {
+              "status": "passed",
+              "duration": 6270000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks the lineitems tab",
+            "result": {
+              "status": "passed",
+              "duration": 2899000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user checks the new lineitem button",
+            "result": {
+              "status": "passed",
+              "duration": 1896000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user clicks the new lineitem button",
+            "result": {
+              "status": "passed",
+              "duration": 173000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user select the new mice line",
+            "result": {
+              "status": "passed",
+              "duration": 131000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "user enter description, dealer price and quantity",
+            "result": {
+              "status": "passed",
+              "duration": 5566000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 2000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          }
+        ],
+        "retried": 0
+      },
+      {
+        "keyword": "Scenario",
+        "type": "scenario",
+        "description": "",
+        "name": "checking login with valid credentials",
+        "tags": [],
+        "id": "testing-sample-functionalitychecking-login-with-valid-credentials",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Before",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 3000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given",
+            "name": "user is on login page",
+            "result": {
+              "status": "passed",
+              "duration": 7302000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user eneters username",
+            "result": {
+              "status": "passed",
+              "duration": 307000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user ciccks next button",
+            "result": {
+              "status": "passed",
+              "duration": 111000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user enters  password",
+            "result": {
+              "status": "passed",
+              "duration": 1203000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks signin button",
+            "result": {
+              "status": "passed",
+              "duration": 2321000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user navigated to next page",
+            "result": {
+              "status": "passed",
+              "duration": 1468000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user should see new quote button",
+            "result": {
+              "status": "passed",
+              "duration": 236000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks the new quote button",
+            "result": {
+              "status": "passed",
+              "duration": 2684000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user fill quote name",
+            "result": {
+              "status": "passed",
+              "duration": 261000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user click select a client button",
+            "result": {
+              "status": "passed",
+              "duration": 1398000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user place client name",
+            "result": {
+              "status": "passed",
+              "duration": 405000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user select the client",
+            "result": {
+              "status": "passed",
+              "duration": 759000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user click on create button",
+            "result": {
+              "status": "passed",
+              "duration": 4216000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user validate the quote order message",
+            "result": {
+              "status": "passed",
+              "duration": 3315000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user clicks the window world repository dropdown",
+            "result": {
+              "status": "passed",
+              "duration": 6825000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks the save button for save the data",
+            "result": {
+              "status": "passed",
+              "duration": 6240000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks the lineitems tab",
+            "result": {
+              "status": "passed",
+              "duration": 2691000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user checks the new lineitem button",
+            "result": {
+              "status": "passed",
+              "duration": 1864000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user clicks the new lineitem button",
+            "result": {
+              "status": "passed",
+              "duration": 179000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user select the new mice line",
+            "result": {
+              "status": "passed",
+              "duration": 132000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "user enter description, dealer price and quantity",
+            "result": {
+              "status": "passed",
+              "duration": 5573000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          }
+        ],
+        "retried": 0
+      },
+      {
+        "keyword": "Scenario",
+        "type": "scenario",
+        "description": "",
+        "name": "checking login with valid credentials",
+        "tags": [],
+        "id": "testing-sample-functionalitychecking-login-with-valid-credentials",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Before",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 2000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given",
+            "name": "user is on login page",
+            "result": {
+              "status": "passed",
+              "duration": 7091000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user eneters username",
+            "result": {
+              "status": "passed",
+              "duration": 194000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user ciccks next button",
+            "result": {
+              "status": "passed",
+              "duration": 66000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user enters  password",
+            "result": {
+              "status": "passed",
+              "duration": 1132000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks signin button",
+            "result": {
+              "status": "passed",
+              "duration": 1877000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user navigated to next page",
+            "result": {
+              "status": "passed",
+              "duration": 1207000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user should see new quote button",
+            "result": {
+              "status": "passed",
+              "duration": 64000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks the new quote button",
+            "result": {
+              "status": "passed",
+              "duration": 1774000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user fill quote name",
+            "result": {
+              "status": "passed",
+              "duration": 107000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user click select a client button",
+            "result": {
+              "status": "passed",
+              "duration": 6080000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user place client name",
+            "result": {
+              "status": "passed",
+              "duration": 204000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user select the client",
+            "result": {
+              "status": "passed",
+              "duration": 1620000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user click on create button",
+            "result": {
+              "status": "passed",
+              "duration": 3887000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user validate the quote order message",
+            "result": {
+              "status": "passed",
+              "duration": 3351000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user clicks the window world repository dropdown",
+            "result": {
+              "status": "passed",
+              "duration": 7504000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks the save button for save the data",
+            "result": {
+              "status": "passed",
+              "duration": 5967000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks the lineitems tab",
+            "result": {
+              "status": "passed",
+              "duration": 3286000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user checks the new lineitem button",
+            "result": {
+              "status": "passed",
+              "duration": 2137000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user clicks the new lineitem button",
+            "result": {
+              "status": "passed",
+              "duration": 99000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user select the new mice line",
+            "result": {
+              "status": "passed",
+              "duration": 101000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "user enter description, dealer price and quantity",
+            "result": {
+              "status": "passed",
+              "duration": 5447000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 0
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          }
+        ],
+        "retried": 0
+      },
+      {
+        "keyword": "Scenario",
+        "type": "scenario",
+        "description": "",
+        "name": "checking login with valid credentials",
+        "tags": [],
+        "id": "testing-sample-functionalitychecking-login-with-valid-credentials",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Before",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 2000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given",
+            "name": "user is on login page",
+            "result": {
+              "status": "passed",
+              "duration": 6509000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user eneters username",
+            "result": {
+              "status": "passed",
+              "duration": 171000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user ciccks next button",
+            "result": {
+              "status": "passed",
+              "duration": 61000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user enters  password",
+            "result": {
+              "status": "passed",
+              "duration": 1176000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks signin button",
+            "result": {
+              "status": "passed",
+              "duration": 2238000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user navigated to next page",
+            "result": {
+              "status": "passed",
+              "duration": 1212000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user should see new quote button",
+            "result": {
+              "status": "passed",
+              "duration": 20000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks the new quote button",
+            "result": {
+              "status": "passed",
+              "duration": 859000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user fill quote name",
+            "result": {
+              "status": "passed",
+              "duration": 1202000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user click select a client button",
+            "result": {
+              "status": "passed",
+              "duration": 6028000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user place client name",
+            "result": {
+              "status": "passed",
+              "duration": 194000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user select the client",
+            "result": {
+              "status": "passed",
+              "duration": 1159000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user click on create button",
+            "result": {
+              "status": "passed",
+              "duration": 3833000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user validate the quote order message",
+            "result": {
+              "status": "passed",
+              "duration": 3133000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user clicks the window world repository dropdown",
+            "result": {
+              "status": "passed",
+              "duration": 2537000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks the save button for save the data",
+            "result": {
+              "status": "passed",
+              "duration": 5988000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks the lineitems tab",
+            "result": {
+              "status": "passed",
+              "duration": 2113000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user checks the new lineitem button",
+            "result": {
+              "status": "passed",
+              "duration": 1657000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user clicks the new lineitem button",
+            "result": {
+              "status": "passed",
+              "duration": 92000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user select the new mice line",
+            "result": {
+              "status": "passed",
+              "duration": 82000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "user enter description, dealer price and quantity",
+            "result": {
+              "status": "passed",
+              "duration": 5381000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 2000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          }
+        ],
+        "retried": 0
+      },
+      {
+        "keyword": "Scenario",
+        "type": "scenario",
+        "description": "",
+        "name": "checking login with valid credentials",
+        "tags": [],
+        "id": "testing-sample-functionalitychecking-login-with-valid-credentials",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Before",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 3000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given",
+            "name": "user is on login page",
+            "result": {
+              "status": "passed",
+              "duration": 7181000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user eneters username",
+            "result": {
+              "status": "passed",
+              "duration": 183000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user ciccks next button",
+            "result": {
+              "status": "passed",
+              "duration": 66000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user enters  password",
+            "result": {
+              "status": "passed",
+              "duration": 621000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks signin button",
+            "result": {
+              "status": "passed",
+              "duration": 2150000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user navigated to next page",
+            "result": {
+              "status": "passed",
+              "duration": 724000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user should see new quote button",
+            "result": {
+              "status": "passed",
+              "duration": 16000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks the new quote button",
+            "result": {
+              "status": "passed",
+              "duration": 1220000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user fill quote name",
+            "result": {
+              "status": "passed",
+              "duration": 1219000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user click select a client button",
+            "result": {
+              "status": "passed",
+              "duration": 6419000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user place client name",
+            "result": {
+              "status": "passed",
+              "duration": 267000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user select the client",
+            "result": {
+              "status": "passed",
+              "duration": 1176000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user click on create button",
+            "result": {
+              "status": "passed",
+              "duration": 3880000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user validate the quote order message",
+            "result": {
+              "status": "passed",
+              "duration": 3294000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user clicks the window world repository dropdown",
+            "result": {
+              "status": "passed",
+              "duration": 6959000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks the save button for save the data",
+            "result": {
+              "status": "passed",
+              "duration": 5968000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user clicks the lineitems tab",
+            "result": {
+              "status": "passed",
+              "duration": 2277000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user checks the new lineitem button",
+            "result": {
+              "status": "passed",
+              "duration": 2178000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "name": "user clicks the new lineitem button",
+            "result": {
+              "status": "passed",
+              "duration": 97000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then",
+            "name": "user select the new mice line",
+            "result": {
+              "status": "passed",
+              "duration": 78000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "name": "user enter description, dealer price and quantity",
+            "result": {
+              "status": "passed",
+              "duration": 5381000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After",
+            "name": "",
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            },
+            "line": null,
+            "match": {
+              "location": "can not be determined with webdriver.io"
+            }
+          }
+        ],
+        "retried": 0
+      }
+    ],
+    "id": "testing-sample-functionality",
+    "metadata": {
+      "browser": {
+        "name": "chrome",
+        "version": "131.0.6778.87"
+      },
+      "device": "Device name not known",
+      "platform": {
+        "name": "windows",
+        "version": "Version not known"
+      }
+    }
+  }
+]
